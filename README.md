@@ -1,2 +1,2 @@
-# 01-Challenge
-Module 1 Challenge
+# First week homework - Challenge 1
+## 
